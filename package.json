@@ -10,9 +10,9 @@
   "author": "ITG",
   "license": "ISC",
   "dependencies": {
+    "chokidar": "^1.0.5",
     "fs-extra": "^0.24.0",
     "glob": "^5.0.14",
-    "hound": "^1.0.4",
     "tar.gz": "^1.0.1",
     "unzip": "^0.1.11"
   },
