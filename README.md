@@ -4,7 +4,7 @@
 
 ## config
 
-add a config file to `/usr/local/cerberus/conf.d/` that looks like:
+add a config file to `$HOME/.cerberus/conf.d/` that looks like:
 
 ```
 {
