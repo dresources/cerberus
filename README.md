@@ -16,4 +16,6 @@ add a config file to `$HOME/.cerberus/conf.d/` that looks like:
 
 ## run
 
-with [forever](https://github.com/foreverjs/forever) or [pm2](https://github.com/Unitech/PM2)
+with [pm2](https://github.com/Unitech/PM2)
+
+`pm2 start /usr/bin/cerberus`
