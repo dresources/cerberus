@@ -1,5 +1,10 @@
-# cerebrus
-watch directory and unzip file to location
+# cerberus
+
+`npm i -g git+ssh://git@github.com/dresources/cerberus.git`
+
+## config
+
+add a config file to `/usr/local/cerberus/conf.d/` that looks like:
 
 ```
 {
