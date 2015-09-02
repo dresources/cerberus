@@ -1,4 +1,0 @@
-{
-    "extractPathPattern": "/lamp-backend*",
-    "tarPattern": "lamp-frontend-dist-(\\d\\.){3}tar\\.gz"
-}

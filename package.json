@@ -2,17 +2,22 @@
   "name": "cerebrus",
   "version": "1.0.0",
   "description": "watch directory and unzip file to location",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "ITG",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^0.24.0",
     "glob": "^5.0.14",
     "hound": "^1.0.4",
     "tar.gz": "^1.0.1",
     "unzip": "^0.1.11"
-  }
+  },
+  "bin": {
+    "cerberus": "bin/cerberus.js"
+  },
+  "preferGlobal": true
 }
