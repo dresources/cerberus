@@ -1,6 +1,6 @@
 {
   "name": "cerebrus",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "watch directory and unzip file to location",
   "main": "./lib/index.js",
   "scripts": {
