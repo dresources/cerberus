@@ -19,5 +19,6 @@
   "bin": {
     "cerberus": "bin/cerberus.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "private":true
 }
